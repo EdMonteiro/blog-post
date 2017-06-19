@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(59, 16, 84);
+}
+
+.jumbotron {
+    padding: 0 auto;
+    margin: 0;
+}
+#header-bg {
+    width: 100%;
+    display: inline-block;
+}
+
+#icon {
+    width: 3em;
+}
